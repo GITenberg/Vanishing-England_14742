@@ -1,0 +1,34 @@
+_repo: Vanishing-England_14742
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ditchfield, P. H. (Peter Hampson)
+    aliases:
+    - Ditchfield, Peter H. (Peter Hampson)
+    - Ditchfield, Peter Hampson
+    birthdate: 1854
+    deathdate: 1930
+    gutenberg_agent_id: '2767'
+    url: http://www.gutenberg.org/2009/agents/2767
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2005-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14742'
+  lccn: a 11000761
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Antiquities'
+- !lcc 'DA'
+- !lcsh 'England -- Description and travel'
+- !lcsh 'Historic buildings -- England'
+- !lcsh 'England -- Social life and customs'
+title: Vanishing England
+url: http://www.gutenberg.org/ebooks/14742
